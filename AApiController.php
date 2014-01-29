@@ -201,7 +201,7 @@ class AApiController extends CController
      * @param int $status HTTP status code
      * @return string status message
      */
-    private function _getStatusCodeMessage($status)
+    protected function _getStatusCodeMessage($status)
     {
         $codes = array(
             100 => 'Continue',
