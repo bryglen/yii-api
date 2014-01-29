@@ -16,7 +16,7 @@
  * @link http://bryantan.info
  * @date 1/29/13
  * @time 2:49 PM
- * @version 2.0.1
+ * @version 2.0.2
  */
 class AApiController extends CController
 {
